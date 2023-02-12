@@ -1,31 +1,20 @@
-<h1>
-	Adam Shih <br />
-	Software Engineer
-</h1>
-<div id="content">
-	<p>
-		Some words about me. I am super cool and you should agree. Cool! Also, did I mention the
-		ingredients of pizza? It has marinara sauce, mozzarella cheese, dough, and pepperoni. Delicious.
-	</p>
-	<div id="links">
-		<a href="https://www.linkedin.com/in/shihadam">linkedin.com/in/shihadam</a>
-		<a href="https://www.github.com/adam-shih">github.com/adam-shih</a>
-	</div>
+<header>
+	<h1>Adam Shih</h1>
+	<p class="subtitle">Software Enginneer</p>
+</header>
+<div>
+	<p>A passionate developer in persuit of personal improvement and continuous learning.</p>
+	<p>Hobbies: Snowboarding, Digital Art</p>
+	<p>Technical Interests: Rust, Game Development</p>
 </div>
 
 <style>
+	header {
+		margin-bottom: 5rem;
+	}
+
 	h1 {
-		text-align: center;
-	}
-
-	#content {
-		display: grid;
-		grid-template-columns: 70% 30%;
-		gap: 3rem;
-	}
-
-	#links {
-		display: flex;
-		flex-direction: column;
+		margin: 0;
+		font-size: 100px;
 	}
 </style>
