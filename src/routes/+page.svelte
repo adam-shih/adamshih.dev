@@ -3,9 +3,9 @@
 	<p class="subtitle">Software Enginneer</p>
 </header>
 <div>
-	<p>A passionate developer in persuit of personal improvement and continuous learning.</p>
-	<p>Hobbies: Snowboarding, Digital Art</p>
+	<p>A passionate developer in persuit of continuous learning and personal improvement.</p>
 	<p>Technical Interests: Rust, Game Development</p>
+	<p>Other Hobbies: Digital Art, Snowboarding</p>
 </div>
 
 <style>
