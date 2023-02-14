@@ -110,10 +110,7 @@
 	}
 
 	nav {
-		/* gap: 2rem; */
 		justify-content: space-between;
-		/* flex-shrink: 1; */
-		/* flex-wrap: wrap; */
 	}
 
 	footer {
