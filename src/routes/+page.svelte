@@ -1,6 +1,6 @@
 <header>
 	<h1>Adam Shih</h1>
-	<p class="subtitle">Software Enginneer</p>
+	<p>Software Enginneer</p>
 </header>
 <div>
 	<p>A passionate developer in persuit of continuous learning and personal improvement.</p>
@@ -10,11 +10,10 @@
 
 <style>
 	header {
-		margin-bottom: 5rem;
+		margin-bottom: 3rem;
 	}
 
 	h1 {
 		margin: 0;
-		font-size: 100px;
 	}
 </style>
