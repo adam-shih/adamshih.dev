@@ -1,6 +1,6 @@
 <header>
 	<h1>Adam Shih</h1>
-	<p>Software Enginneer</p>
+	<p>Software Engineer</p>
 </header>
 <div>
 	<p>
