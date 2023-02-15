@@ -3,8 +3,14 @@
 	<p>Software Enginneer</p>
 </header>
 <div>
-	<p>A passionate developer in persuit of continuous learning and personal improvement.</p>
-	<p>Technical Interests: Rust, Game Development</p>
+	<p>
+		A passionate developer in persuit of continuous learning, best practices, and personal
+		improvement.
+	</p>
+	<p>
+		<strong>Technical Interests:</strong> Rust, Backend Development, Embedded Systems, Game Development,
+		Software Security
+	</p>
 	<p>Other Hobbies: Digital Art, Snowboarding</p>
 </div>
 
