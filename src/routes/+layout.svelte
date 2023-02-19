@@ -111,6 +111,7 @@
 
 	nav {
 		justify-content: space-between;
+		margin-top: 1rem;
 	}
 
 	footer {
