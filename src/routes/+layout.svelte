@@ -106,7 +106,7 @@
 		text-align: center;
 		padding: 0.2rem 0.6rem;
 		text-transform: uppercase;
-		font-size: 0.8rem;
+		/* font-size: 0.8rem; */
 	}
 
 	nav {

@@ -9,14 +9,6 @@
 <p class="text-center">Falling Sand Simulation</p>
 <div class="flex">
 	<canvas id="bevy-canvas" />
-	<!-- <div class="flex-col">
-		<p>Controls:</p>
-		<p>[LeftClick] Place element</p>
-		<p>[1] Sand</p>
-		<p>[2] Water</p>
-		<p>[3] Stone</p>
-		<p>[4] Air (Eraser)</p>
-	</div> -->
 </div>
 
 <style>
@@ -29,14 +21,5 @@
 
 	.text-center {
 		text-align: center;
-	}
-
-	.flex-col {
-		display: flex;
-		flex-direction: column;
-	}
-
-	.flex-col > p {
-		margin: 0.5rem;
 	}
 </style>
