@@ -6,17 +6,17 @@
 	});
 </script>
 
-<p>Falling Sand Simulation</p>
+<p class="text-center">Falling Sand Simulation</p>
 <div class="flex">
 	<canvas id="bevy-canvas" />
-	<div class="flex-col">
+	<!-- <div class="flex-col">
 		<p>Controls:</p>
 		<p>[LeftClick] Place element</p>
 		<p>[1] Sand</p>
 		<p>[2] Water</p>
 		<p>[3] Stone</p>
 		<p>[4] Air (Eraser)</p>
-	</div>
+	</div> -->
 </div>
 
 <style>
@@ -24,6 +24,11 @@
 		display: flex;
 		gap: 2rem;
 		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.text-center {
+		text-align: center;
 	}
 
 	.flex-col {
