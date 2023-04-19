@@ -7,7 +7,7 @@
 <nav>
 	<ul>
 		<li>
-			<a href="/" class="nav-link outline" role="button">/</a>
+			<a href="/" class="nav-link">/</a>
 		</li>
 	</ul>
 	<ul>
