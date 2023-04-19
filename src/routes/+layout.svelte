@@ -16,11 +16,6 @@
 </body>
 
 <style>
-	* {
-		--primary-focus: transparent;
-		--primary-active: transparent;
-	}
-
 	#layout {
 		display: flex;
 		flex-direction: column;
