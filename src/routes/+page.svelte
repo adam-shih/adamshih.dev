@@ -3,6 +3,7 @@
 
 	const interests = [
 		'Backend Development',
+		'Frontend Development',
 		'Embedded Systems',
 		'Game Development',
 		'Software Security',

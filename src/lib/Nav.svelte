@@ -11,9 +11,9 @@
 		</li>
 	</ul>
 	<ul>
-		<li>
+		<!-- <li>
 			<a href="/blog" class="nav-link">Blog</a>
-		</li>
+		</li> -->
 		<li>
 			<a href="/projects" class="nav-link">Projects</a>
 		</li>
