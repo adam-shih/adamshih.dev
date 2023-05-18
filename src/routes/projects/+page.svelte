@@ -2,14 +2,21 @@
 	<article>
 		<header>Forum Application</header>
 		<body>
-			<p><a href="https://github.com/adam-shih/forum">GitHub Repository</a></p>
+			<p>
+				<a href="https://forum.adamshih.dev">Live Demo</a>
+				&#x2022;
+				<a href="https://github.com/adam-shih/forum">GitHub Repository</a>
+			</p>
 			<p>
 				A fullstack forum application inspired by websites like Reddit, Hacker News, Lobste.rs, etc.
 			</p>
 			<p>
-				REST API built using Rust and the Axum framework alongside a PostgreSQL database in Docker.
+				REST API built using Rust and the Axum framework alongside a PostgreSQL database. Deployed
+				to my home server on a Raspberry Pi.
 			</p>
-			<p>Frontend built using JavaScript with SvelteKit.</p>
+			<p>
+				Frontend built using JavaScript with SvelteKit. Deployed with Vercel serverless functions.
+			</p>
 		</body>
 	</article>
 

@@ -3,6 +3,7 @@
 	import '@fontsource/jetbrains-mono';
 	import Nav from '$lib/Nav.svelte';
 	import Footer from '$lib/Footer.svelte';
+	import '$lib/global.css';
 </script>
 
 <body id="layout" class="container">

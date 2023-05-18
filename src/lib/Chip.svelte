@@ -12,6 +12,6 @@
 		border-radius: var(--border-radius);
 		margin-right: 0.5rem;
 		margin-bottom: 0.5rem;
-		color: #bbc6ce;
+		color: white;
 	}
 </style>
