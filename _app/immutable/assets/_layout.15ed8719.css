@@ -123,4 +123,24 @@ body>main,
 body>footer,
 section {
     --block-spacing-vertical: calc(var(--spacing) * 2);
+}
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 510px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 700px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 920px;
+    }
 }#layout.svelte-k1om59{display:flex;flex-direction:column;min-height:100vh}#footer.svelte-k1om59{margin-top:auto}body.svelte-k1om59{font-family:'JetBrains Mono', monospace}h1, h2, h3, h4, h5, h6{font-family:'JetBrains Mono', monospace}
