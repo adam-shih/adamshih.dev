@@ -19,7 +19,7 @@
 		</li>
 		<li>
 			<!-- <a href="/resume" class="nav-link">Resume</a> -->
-			<a href='Resume_Adam_Shih.pdf' target='_blank' rel='noopener norefferrer'>Resume</a>
+			<a href='{$page.url.origin}/Resume_Adam_Shih.pdf' target='_blank' rel='noopener noreferrer'>Resume</a>
 		</li>
 	</ul>
 	<ul>
