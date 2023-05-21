@@ -18,7 +18,8 @@
 			<a href="/projects" class="nav-link">Projects</a>
 		</li>
 		<li>
-			<a href="/resume" class="nav-link">Resume</a>
+			<!-- <a href="/resume" class="nav-link">Resume</a> -->
+			<a href='Resume_Adam_Shih.pdf' target='_blank' rel='noopener norefferrer'>Resume</a>
 		</li>
 	</ul>
 	<ul>
