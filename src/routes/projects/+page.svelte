@@ -21,8 +21,23 @@
 	</article>
 
 	<article>
+		<header>Voxel Engine</header>
+		<body>
+			<p>
+				<a href="https://github.com/adam-shih/voxel-engine">Github Repository</a>
+			</p>
+			<p>
+				A voxel engine written in Rust using the <a href='https://bevyengine.org'>Bevy Game Engine</a>.
+			</p>
+			<p>Features include dynamic chunk loading/unloading and procedural terrain generation.</p>
+			<p>Currently working to implement optimized meshing algorithms, and more block types.</p>
+			<p>Live demo coming soon...</p>
+		</body>
+	</article>
+
+	<article>
 		<header>
-			<a href="/projects/falling-sand">Falling Sand Simulation</a>
+			Falling Sand Simulation
 		</header>
 		<body>
 			<p>
