@@ -18,7 +18,7 @@
 			<a href="/projects" class="nav-link">Projects</a>
 		</li>
 		<li>
-			<a href='{$page.url.origin}/Resume_Adam_Shih.pdf' class='nav-link' target='_blank' rel='noopener noreferrer'>Resume</a>
+			<a href='{$page.url.origin}/resume.pdf' class='nav-link' target='_blank' rel='noopener noreferrer'>Resume</a>
 		</li>
 	</ul>
 	<ul>
