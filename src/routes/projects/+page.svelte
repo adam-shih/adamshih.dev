@@ -3,9 +3,9 @@
 		<header>Forum Application</header>
 		<body>
 			<p>
-				<a href="https://forum.adamshih.dev">Live Demo</a>
-				&#x2022;
-				<a href="https://github.com/adam-shih/forum">GitHub Repository</a>
+				<!-- <a href="https://forum.adamshih.dev">Live Demo</a>
+				&#x2022; -->
+				<a href="https://github.com/adam-shih/forum">Source</a>
 			</p>
 			<p>
 				A fullstack forum application inspired by websites like Reddit, Hacker News, Lobste.rs, etc.
@@ -24,26 +24,25 @@
 		<header>Voxel Engine</header>
 		<body>
 			<p>
-				<a href="https://github.com/adam-shih/voxel-engine">Github Repository</a>
+				<a href="https://github.com/adam-shih/voxel-engine">Source</a>
 			</p>
 			<p>
-				A voxel engine written in Rust using the <a href='https://bevyengine.org'>Bevy Game Engine</a>.
+				A voxel engine written in Rust using the <a href="https://bevyengine.org"
+					>Bevy Game Engine</a
+				>.
 			</p>
 			<p>Features include dynamic chunk loading/unloading and procedural terrain generation.</p>
 			<p>Currently working to implement optimized meshing algorithms, and more block types.</p>
-			<p>Live demo coming soon...</p>
 		</body>
 	</article>
 
 	<article>
-		<header>
-			Falling Sand Simulation
-		</header>
+		<header>Falling Sand Simulation</header>
 		<body>
 			<p>
-				<a href="/projects/falling-sand">Live Demo</a>
+				<a href="/projects/falling-sand">Demo</a>
 				&#x2022;
-				<a href="https://github.com/adam-shih/falling-sand">GitHub Repository</a>
+				<a href="https://github.com/adam-shih/falling-sand">Source</a>
 			</p>
 			<p>A cellular automata to simulate various elements' physics and interactions.</p>
 			<p>
